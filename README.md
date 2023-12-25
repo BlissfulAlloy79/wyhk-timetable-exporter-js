@@ -54,7 +54,8 @@ If correctly loaded, for /timetables:
 
 You should see 2 new buttons inserted below the selection boxes
 
-<wait for image insertion
+![Screenshot 2023-12-26 003457](https://github.com/BlissfulAlloy79/wyhk-timetable-exporter-js/assets/45236703/61ccfcb5-0334-4b29-b7a3-2beb0dd763c6)
+
 
 For /examtimetable:
 
@@ -64,3 +65,4 @@ be remined that before exporting the exam timetable, select your exam first (。
 
 ![Screenshot 2023-12-25 234729](https://github.com/BlissfulAlloy79/wyhk-timetable-exporter-js/assets/45236703/1e1a2ecf-ef27-4350-9d67-d97e5b43b3f7)
 
+If the script failed to load, just simply reload the site to refresh it (*￣3￣)╭
