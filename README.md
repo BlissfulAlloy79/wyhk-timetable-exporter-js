@@ -46,3 +46,21 @@ https://greasyfork.org/scripts/483091-wyhk-timetable-exporter
 
 to install the script, or you can download the script directly from this repo and import them manually
 
+---
+
+After successful installation, login to /timetables or /examtimetable site and see if the script have correctly loaded
+
+If correctly loaded, for /timetables:
+
+You should see 2 new buttons inserted below the selection boxes
+
+<wait for image insertion
+
+For /examtimetable:
+
+You should see 1 new button inserted below the selection boxes
+
+be remined that before exporting the exam timetable, select your exam first (。・ω・。)
+
+![Screenshot 2023-12-25 234729](https://github.com/BlissfulAlloy79/wyhk-timetable-exporter-js/assets/45236703/1e1a2ecf-ef27-4350-9d67-d97e5b43b3f7)
+
