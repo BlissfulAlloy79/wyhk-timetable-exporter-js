@@ -30,13 +30,13 @@ Unlike the Python version, you won't have to extract the cookie manually as this
 
 ### Requirements
 
-I recommend to use ![Greasy Fork](https://greasyfork.org) + ![TamperMonkey](https://www.tampermonkey.net/) for Chrome and other mainstream browsers on the computer
+I recommend to use [Greasy Fork](https://greasyfork.org) + [TamperMonkey](https://www.tampermonkey.net/) for Chrome and other mainstream browsers on the computer
 
-If you don't know what or how to use TamperMonkey, ![this video helps](https://www.youtube.com/watch?v=8tyjJD65zws)
+If you don't know what or how to use TamperMonkey, [this video helps](https://www.youtube.com/watch?v=8tyjJD65zws)
 
-For Safari IOS users, you may use ![Userscripts](https://github.com/quoid/userscripts) to load the userscipt
+For Safari IOS users, you may use [Userscripts](https://github.com/quoid/userscripts) to load the userscipt
 
-How to use Userscripts? ![Follow the steps here](https://github.com/quoid/userscripts#usage)
+How to use Userscripts? [Follow the steps here](https://github.com/quoid/userscripts#usage)
 
 ### Install
 
