@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         WYHK-timetable exporter
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/BlissfulAlloy79/wyhk-timetable-exporter-js
+// @supportURL	 https://github.com/BlissfulAlloy79/wyhk-timetable-exporter-js
+// @version      0.1
 // @description  WYHK-Timetable exporter
 // @author       BlissfulAlloy79
 // @match        https://www.wahyan.edu.hk/timetables
