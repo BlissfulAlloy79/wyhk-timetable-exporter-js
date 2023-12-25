@@ -10,6 +10,8 @@ It's just a simple script to request the timetable api to provide everything I n
 
 ## Screenshots
 
+![Screenshot 2023-12-25 234729](https://github.com/BlissfulAlloy79/wyhk-timetable-exporter-js/assets/45236703/1e1a2ecf-ef27-4350-9d67-d97e5b43b3f7)
+
 ![Screenshot 2023-11-11 155223](https://github.com/BlissfulAlloy79/wyhk-timetable-exporter/assets/45236703/771711bb-952a-4fdd-805b-bdc2f54e7a6a)
 
 ![IMG_0440](https://github.com/BlissfulAlloy79/wyhk-timetable-exporter/assets/45236703/47db7378-a6a0-4611-9f82-98338358ece8)
